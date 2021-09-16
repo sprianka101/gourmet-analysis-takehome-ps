@@ -1,4 +1,4 @@
-#Data Analyst Project
+# Data Analyst Project
 You have been provided the ecommerce order history for three different companies. Each row
 provides information on:
 * order_id: a unique identifier for the order 
@@ -26,6 +26,7 @@ ecommerce revenue over the next 150 days. From a risk perspective, it is helpful
 know what the projected number is over the 150-day period, and it is also helpful to
 know the range and likelihood of projected outcomes. Construct a model that you
 believe best assists in answering this question.
+
 ####Requirements and Hints:
 * For purposes of this exercise, you can assume revenue to be total_price net of
 order_refunds for all paid orders.
