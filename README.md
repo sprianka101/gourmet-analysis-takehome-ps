@@ -27,7 +27,7 @@ know what the projected number is over the 150-day period, and it is also helpfu
 know the range and likelihood of projected outcomes. Construct a model that you
 believe best assists in answering this question.
 
-####Requirements and Hints:
+#### Requirements and Hints:
 * For purposes of this exercise, you can assume revenue to be total_price net of
 order_refunds for all paid orders.
 * Please commit your solution in a separate branch and create a Merge Request with your
